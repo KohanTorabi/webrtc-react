@@ -1,6 +1,6 @@
-# WebRTC Chat
+# WebRTC React
 
-WebRTC Chat is a simple video chat application built using WebRTC technology. It allows users to have real-time video communication and exchange chat messages with each other.
+WebRTC React is a simple video chat application built using WebRTC technology. It allows users to have real-time video communication and exchange chat messages with each other.
 
 ## Features
 
@@ -18,14 +18,14 @@ WebRTC Chat is a simple video chat application built using WebRTC technology. It
 
 ## Prerequisites
 
-To run the WebRTC Chat application locally, you need to have the following software installed on your machine:
+To run the WebRTC React application locally, you need to have the following software installed on your machine:
 
 -   Node.js (version 12 or higher)
 -   npm (Node Package Manager)
 
 ## Getting Started
 
-Follow these steps to set up and run the WebRTC Chat application:
+Follow these steps to set up and run the WebRTC React application:
 
 1.  Clone the repository:
         
@@ -55,12 +55,12 @@ Follow these steps to set up and run the WebRTC Chat application:
         
     `npm start` 
     
-8.  Access the WebRTC Chat application in your browser at [http://localhost:3000](http://localhost:3000/).
+8.  Access the WebRTC React application in your browser at [http://localhost:3000](http://localhost:3000/).
     
 
 ## Usage
 
-1.  Open the WebRTC Chat application in two identical tabs or windows.
+1.  Open the WebRTC React application in two identical tabs or windows.
     
 2.  In each tab, enter your name in the name input field.
     
@@ -76,7 +76,7 @@ Follow these steps to set up and run the WebRTC Chat application:
    
    ## Contribution
 
-Contributions to the WebRTC Chat project are always welcome! If you have any ideas, improvements, or bug fixes, please follow these steps:
+Contributions to the WebRTC React project are always welcome! If you have any ideas, improvements, or bug fixes, please follow these steps:
 
 1.  Fork the repository.
     
