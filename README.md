@@ -29,7 +29,7 @@ Follow these steps to set up and run the WebRTC Chat application:
 
 1.  Clone the repository:
         
-    `git clone <repository-url>` 
+    `git clone https://github.com/KohanTorabi/webrtc-react.git` 
     
 2.  Navigate to the project directory:
         
